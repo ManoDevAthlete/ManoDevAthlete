@@ -1,16 +1,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Manoharan%20Thangavel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20PHP%20Laravel%20Developer%20%7C%20Building%20Scalable%20Web%20Apps%20%26%20RESTful%20APIs&descAlignY=62&descSize=16"/>
 
 <div align="center">
-  <a href="https://github.com/ManoCodeAthlete">
-    <img src="https://komarev.com/ghpvc/?username=ManoCodeAthlete&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
+  <a href="https://github.com/ManoDevAthlete">
+    <img src="https://komarev.com/ghpvc/?username=ManoDevAthlete&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
   </a>
   &nbsp;
   <a href="mailto:manoharan.t.2001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-manoharan.t.2001%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/ManoCodeAthlete">
-    <img src="https://img.shields.io/badge/LinkedIn-ManoCodeAthlete-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/Manoharanthangavel">
+    <img src="https://img.shields.io/badge/LinkedIn-ManoDevAthlete-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Pudukkottai%2C%20Tamil%20Nadu%2C%20India-38BDAE?style=flat-square&logo=googlemaps&logoColor=white"/>
@@ -31,9 +31,9 @@
 ```php
 <?php
 
-class ManoharanThangavel extends Developer
+class ManoDevAthlete extends Developer
 {
-    public string $name     = "Manoharan Thangavel";
+    public string $name     = "ManoDevAthlete";
     public string $location = "Pudukkottai, Tamil Nadu, India";
     public string $email    = "manoharan.t.2001@gmail.com";
     public string $degree   = "B.Tech IT — Anna University (2018–2022)";
@@ -105,11 +105,11 @@ class ManoharanThangavel extends Developer
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/ManoCodeAthlete">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ManoCodeAthlete&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <a href="https://github.com/ManoDevAthlete">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ManoDevAthlete&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github.com/ManoCodeAthlete">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoCodeAthlete&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github.com/ManoDevAthlete">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoDevAthlete&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -118,7 +118,7 @@ class ManoharanThangavel extends Developer
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ManoCodeAthlete&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+  <img src="https://streak-stats.demolab.com?user=ManoDevAthlete&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 </div>
 
 ---
@@ -126,7 +126,7 @@ class ManoharanThangavel extends Developer
 ## 📈 Activity Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManoCodeAthlete&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManoDevAthlete&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 </div>
 
 ---
@@ -134,7 +134,7 @@ class ManoharanThangavel extends Developer
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ManoCodeAthlete&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ManoDevAthlete&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 ---
@@ -229,9 +229,9 @@ class ManoharanThangavel extends Developer
 
 [![Gmail](https://img.shields.io/badge/Gmail-manoharan.t.2001%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manoharan.t.2001@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ManoCodeAthlete-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ManoCodeAthlete)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ManoDevAthlete-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ManoDevAthlete)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-ManoCodeAthlete-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManoCodeAthlete)
+[![GitHub](https://img.shields.io/badge/GitHub-ManoDevAthlete-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManoDevAthlete)
 
 <br/>
 
