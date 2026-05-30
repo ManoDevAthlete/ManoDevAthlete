@@ -1,15 +1,15 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Manoharan%20Thangavel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20PHP%20Laravel%20Developer%20%7C%20Building%20Scalable%20Web%20Apps%20%26%20RESTful%20APIs&descAlignY=62&descSize=16"/>
 
 <div align="center">
-  <a href="https://github.com/ManoDevAthlete">
-    <img src="https://komarev.com/ghpvc/?username=ManoDevAthlete&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
+  <a href="https://github.com/ManoCodeAthlete">
+    <img src="https://komarev.com/ghpvc/?username=ManoCodeAthlete&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
   </a>
   &nbsp;
   <a href="mailto:manoharan.t.2001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-manoharan.t.2001%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/ManoDevAthlete">
+  <a href="https://www.linkedin.com/in/ManoCodeAthlete">
     <img src="https://img.shields.io/badge/LinkedIn-Manoharan%20Thangavel-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
@@ -28,23 +28,39 @@
 
 <img align="right" width="370" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-👋 Hi, I'm **Manoharan Thangavel** — a passionate **Fullstack PHP Laravel Developer** from **Pudukkottai, Tamil Nadu, India**.
+```php
+<?php
 
-🎓 &nbsp; B.Tech in Information Technology — **Anna University** (2018–2022)
+class ManoharanThangavel extends Developer
+{
+    public string $name     = "Manoharan Thangavel";
+    public string $location = "Pudukkottai, Tamil Nadu, India";
+    public string $email    = "manoharan.t.2001@gmail.com";
+    public string $degree   = "B.Tech IT — Anna University (2018–2022)";
 
-🏢 &nbsp; Currently working at **Sivasethu Infotech Pvt. Ltd.**, Trichy as a **Laravel App Developer**
+    public array $stack = [
+        "Backend"  => ["PHP", "Laravel", "RESTful APIs", "JWT", "Sanctum"],
+        "Frontend" => ["HTML5", "CSS3", "JavaScript", "AJAX"],
+        "Database" => ["MySQL", "Redis"],
+        "DevOps"   => ["Nginx", "Kubernetes", "Git", "GitHub"],
+        "Tools"    => ["Android Studio", "Queue Workers", "Postman"],
+    ];
 
-🚀 &nbsp; Experienced in building **scalable web apps**, **RESTful APIs**, and **startup products** end-to-end
+    public array $currentlyLearning = [
+        "Docker & Advanced Kubernetes",
+        "Vue.js / React + Inertia.js",
+        "Microservices & CQRS Patterns",
+    ];
 
-🔐 &nbsp; Specialized in **MVC architecture**, **Eloquent ORM**, **JWT/Sanctum auth**, and **payment gateway integration**
+    public string $funFact =
+        "I built a startup product from scratch & lived to debug it!";
 
-🛠️ &nbsp; Tech stack: **PHP · Laravel · MySQL · Redis · Nginx · Kubernetes · JavaScript · AJAX**
-
-🌱 &nbsp; Currently learning **Docker**, **Vue.js / React**, and **Microservices architecture**
-
-💡 &nbsp; Fun fact: *I built a startup product from scratch — and lived to debug it!*
-
-✨ &nbsp; Motto: **"Clean code today = Happy developer tomorrow 🚀"**
+    public function motto(): string
+    {
+        return "Clean code today = Happy developer tomorrow 🚀";
+    }
+}
+```
 
 <br clear="right"/>
 
@@ -89,11 +105,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/ManoDevAthlete">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ManoDevAthlete&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <a href="https://github.com/ManoCodeAthlete">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ManoCodeAthlete&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github.com/ManoDevAthlete">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoDevAthlete&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github.com/ManoCodeAthlete">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoCodeAthlete&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -102,7 +118,7 @@
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ManoDevAthlete&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+  <img src="https://streak-stats.demolab.com?user=ManoCodeAthlete&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 </div>
 
 ---
@@ -110,7 +126,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManoDevAthlete&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManoCodeAthlete&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 </div>
 
 ---
@@ -118,7 +134,7 @@
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ManoDevAthlete&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ManoCodeAthlete&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 ---
@@ -197,12 +213,13 @@
 
 ## 📚 Currently Learning
 
-| 🧱 Advanced Laravel | Custom Packages · Service Providers · Octane |
-|:--------------------|:---------------------------------------------|
-| 🐳 DevOps | Docker · CI/CD Pipelines · Advanced Kubernetes |
-| ⚛️ Frontend | Vue.js · React · Inertia.js |
-| 🔍 System Design | Microservices · Event-Driven Architecture · CQRS |
-| 🔒 Security | OAuth 2.0 · Advanced API Security Patterns |
+```
+🧱 Advanced Laravel  →  Custom Packages · Service Providers · Octane
+🐳 DevOps            →  Docker · CI/CD Pipelines · Advanced Kubernetes
+⚛️  Frontend          →  Vue.js · React · Inertia.js
+🔍 System Design     →  Microservices · Event-Driven Architecture · CQRS
+🔒 Security          →  OAuth 2.0 · Advanced API Security Patterns
+```
 
 ---
 
@@ -212,9 +229,9 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-manoharan.t.2001%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manoharan.t.2001@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoharan%20Thangavel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ManoDevAthlete)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoharan%20Thangavel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ManoCodeAthlete)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-ManoDevAthlete-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManoDevAthlete)
+[![GitHub](https://img.shields.io/badge/GitHub-ManoCodeAthlete-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManoCodeAthlete)
 
 <br/>
 
