@@ -28,39 +28,23 @@
 
 <img align="right" width="370" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```php
-<?php
+👋 Hi, I'm **Manoharan Thangavel** — a passionate **Fullstack PHP Laravel Developer** from **Pudukkottai, Tamil Nadu, India**.
 
-class ManoharanThangavel extends Developer
-{
-    public string $name     = "Manoharan Thangavel";
-    public string $location = "Pudukkottai, Tamil Nadu, India";
-    public string $email    = "manoharan.t.2001@gmail.com";
-    public string $degree   = "B.Tech IT — Anna University (2018–2022)";
+🎓 &nbsp; B.Tech in Information Technology — **Anna University** (2018–2022)
 
-    public array $stack = [
-        "Backend"  => ["PHP", "Laravel", "RESTful APIs", "JWT", "Sanctum"],
-        "Frontend" => ["HTML5", "CSS3", "JavaScript", "AJAX"],
-        "Database" => ["MySQL", "Redis"],
-        "DevOps"   => ["Nginx", "Kubernetes", "Git", "GitHub"],
-        "Tools"    => ["Android Studio", "Queue Workers", "Postman"],
-    ];
+🏢 &nbsp; Currently working at **Sivasethu Infotech Pvt. Ltd.**, Trichy as a **Laravel App Developer**
 
-    public array $currentlyLearning = [
-        "Docker & Advanced Kubernetes",
-        "Vue.js / React + Inertia.js",
-        "Microservices & CQRS Patterns",
-    ];
+🚀 &nbsp; Experienced in building **scalable web apps**, **RESTful APIs**, and **startup products** end-to-end
 
-    public string $funFact =
-        "I built a startup product from scratch & lived to debug it!";
+🔐 &nbsp; Specialized in **MVC architecture**, **Eloquent ORM**, **JWT/Sanctum auth**, and **payment gateway integration**
 
-    public function motto(): string
-    {
-        return "Clean code today = Happy developer tomorrow 🚀";
-    }
-}
-```
+🛠️ &nbsp; Tech stack: **PHP · Laravel · MySQL · Redis · Nginx · Kubernetes · JavaScript · AJAX**
+
+🌱 &nbsp; Currently learning **Docker**, **Vue.js / React**, and **Microservices architecture**
+
+💡 &nbsp; Fun fact: *I built a startup product from scratch — and lived to debug it!*
+
+✨ &nbsp; Motto: **"Clean code today = Happy developer tomorrow 🚀"**
 
 <br clear="right"/>
 
@@ -213,13 +197,12 @@ class ManoharanThangavel extends Developer
 
 ## 📚 Currently Learning
 
-```
-🧱 Advanced Laravel  →  Custom Packages · Service Providers · Octane
-🐳 DevOps            →  Docker · CI/CD Pipelines · Advanced Kubernetes
-⚛️  Frontend          →  Vue.js · React · Inertia.js
-🔍 System Design     →  Microservices · Event-Driven Architecture · CQRS
-🔒 Security          →  OAuth 2.0 · Advanced API Security Patterns
-```
+| 🧱 Advanced Laravel | Custom Packages · Service Providers · Octane |
+|:--------------------|:---------------------------------------------|
+| 🐳 DevOps | Docker · CI/CD Pipelines · Advanced Kubernetes |
+| ⚛️ Frontend | Vue.js · React · Inertia.js |
+| 🔍 System Design | Microservices · Event-Driven Architecture · CQRS |
+| 🔒 Security | OAuth 2.0 · Advanced API Security Patterns |
 
 ---
 
